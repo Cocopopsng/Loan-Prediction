@@ -14,6 +14,7 @@ Sequential|	Dense,Dropout|	 89%|	90%	|89%|	87%| 25
 
 
 Library Versions
+
 tensorflow==2.11.0
 numpy==1.21.5
 pandas==1.4.2
